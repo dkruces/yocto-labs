@@ -1,3 +1,6 @@
 [submodule "yocto/poky"]
 	path = yocto/poky
 	url = git@github.com:dagmcr/poky.git
+[submodule "yocto/meta-ti"]
+	path = yocto/meta-ti
+	url = git@github.com:dagmcr/meta-ti.git
