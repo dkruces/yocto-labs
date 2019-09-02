@@ -1,0 +1,3 @@
+[submodule "yocto/poky"]
+	path = yocto/poky
+	url = git@github.com:dagmcr/poky.git
