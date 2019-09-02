@@ -1,0 +1,7 @@
+yocto/build/bitbake-cookerdaemon.log
+yocto/build/cache/
+yocto/build/conf/sanity_info
+yocto/build/downloads/
+yocto/build/sstate-cache/
+yocto/build/tmp/
+
